@@ -1,0 +1,3 @@
+{:require [rads.rsdp.browser]
+ :init-fns [rads.rsdp.browser/-main]
+ :compiler-options {}}
