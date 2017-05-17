@@ -13,7 +13,7 @@ Implementations of modules from [*Introduction to Reliable and Secure Distribute
 ### Chapter 1: Introduction
 
 - [1.1 Synchronous Job Handler](https://github.com/rads/rsdp/blob/master/src/rads/rsdp/modules/synchronous_job_handler.clj)
-- [1.2 Asynchronous Job Handler](https://github.com/rads/rsdp/blob/master/src/rads/rsdp/modules/asynchronous_job_handler.clj)
+- [1.2 Asynchronous Job Handler](https://github.com/rads/rsdp/blob/master/src/rads/rsdp/modules/asynchronous_job_handler.cljc)
 - [1.3 Job-Transformation by Buffering](https://github.com/rads/rsdp/blob/master/src/rads/rsdp/modules/job_transformation_by_buffering.clj)
 
 ### Chapter 2: Basic Abstractions
