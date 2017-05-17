@@ -12,23 +12,23 @@ Implementations of modules from [*Introduction to Reliable and Secure Distribute
 
 ### Chapter 1: Introduction
 
-- [1.1 Synchronous Job Handler](https://github.com/rads/rsdp/blob/master/src/rads/rsdp/modules/synchronous_job_handler.cljc)
-- [1.2 Asynchronous Job Handler](https://github.com/rads/rsdp/blob/master/src/rads/rsdp/modules/asynchronous_job_handler.cljc)
-- [1.3 Job-Transformation by Buffering](https://github.com/rads/rsdp/blob/master/src/rads/rsdp/modules/job_transformation_by_buffering.cljc)
+- [1.1 Synchronous Job Handler](https://github.com/rads/rsdp/blob/master/src/rads/rsdp/modules/synchronous_job_handler.clj)
+- [1.2 Asynchronous Job Handler](https://github.com/rads/rsdp/blob/master/src/rads/rsdp/modules/asynchronous_job_handler.clj)
+- [1.3 Job-Transformation by Buffering](https://github.com/rads/rsdp/blob/master/src/rads/rsdp/modules/job_transformation_by_buffering.clj)
 
 ### Chapter 2: Basic Abstractions
 
 - [2.1 Retransmit Forever](https://github.com/rads/rsdp/blob/master/src/rads/rsdp/modules/retransmit_forever.cljc)
 - [2.2 Eliminate Duplicates](https://github.com/rads/rsdp/blob/master/src/rads/rsdp/modules/eliminate_duplicates.cljc)
-- [2.3 Log Delivered](https://github.com/rads/rsdp/blob/master/src/rads/rsdp/modules/log_delivered.cljc)
-- [2.4 Authenticate and Filter](https://github.com/rads/rsdp/blob/master/src/rads/rsdp/modules/authenticate_and_filter.cljc)
+- [2.3 Log Delivered](https://github.com/rads/rsdp/blob/master/src/rads/rsdp/modules/log_delivered.clj)
+- [2.4 Authenticate and Filter](https://github.com/rads/rsdp/blob/master/src/rads/rsdp/modules/authenticate_and_filter.clj)
 - [2.5 Exclude on Timeout](https://github.com/rads/rsdp/blob/master/src/rads/rsdp/modules/exclude_on_timeout.cljc)
 - [2.6 Monarchical Leader Election](https://github.com/rads/rsdp/blob/master/src/rads/rsdp/modules/monarchical_leader_election.cljc)
-- [2.7 Increasing Timeout](https://github.com/rads/rsdp/blob/master/src/rads/rsdp/modules/increasing_timeout.cljc)
-- [2.8 Monarchical Eventual Leader Detection](https://github.com/rads/rsdp/blob/master/src/rads/rsdp/modules/monarchical_eventual_leader_detection.cljc)
-- [2.9 Elect Lower Epoch](https://github.com/rads/rsdp/blob/master/src/rads/rsdp/modules/elect_lower_epoch.cljc)
-- [2.10 Rotating Byzantine Leader Detection](https://github.com/rads/rsdp/blob/master/src/rads/rsdp/modules/rotating_byzantine_leader_detection.cljc)
-- [2.11 Sequence Number](https://github.com/rads/rsdp/blob/master/src/rads/rsdp/modules/sequence_number.cljc)
+- [2.7 Increasing Timeout](https://github.com/rads/rsdp/blob/master/src/rads/rsdp/modules/increasing_timeout.clj)
+- [2.8 Monarchical Eventual Leader Detection](https://github.com/rads/rsdp/blob/master/src/rads/rsdp/modules/monarchical_eventual_leader_detection.clj)
+- [2.9 Elect Lower Epoch](https://github.com/rads/rsdp/blob/master/src/rads/rsdp/modules/elect_lower_epoch.clj)
+- [2.10 Rotating Byzantine Leader Detection](https://github.com/rads/rsdp/blob/master/src/rads/rsdp/modules/rotating_byzantine_leader_detection.clj)
+- [2.11 Sequence Number](https://github.com/rads/rsdp/blob/master/src/rads/rsdp/modules/sequence_number.clj)
 
 ### Chapter 3: Reliable Broadcast
 
